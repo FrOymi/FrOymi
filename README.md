@@ -2,6 +2,13 @@
   <h1>Hi there 👋</h1>
 </div>
 
+I'm a self-taught software developer, focusing on backend engineering
+
+### About me
+* 💻 **Tech Stack:** Java | Spring Boot | Databases | Docker
+* 🌱 **Currently Learning:** Mastering the Spring ecosystem and containerization
+* 🚀 **Current Focus:** Preparing for the OCP Java SE 21 certification
+
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
