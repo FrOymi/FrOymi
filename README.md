@@ -2,8 +2,6 @@
   <h1>Hi there 👋</h1>
 </div>
 
-I'm a self-taught software developer, focusing on backend engineering
-
 ### About me
 * 💻 **Tech Stack:** Java | Spring Boot | Databases | Docker
 * 🌱 **Currently Learning:** Mastering the Spring ecosystem and containerization
